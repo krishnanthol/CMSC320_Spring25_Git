@@ -9,3 +9,7 @@ effectiveness of new features.
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging combines the content from two branches into one, whereas rebasing moves content from one 
 branch to another.
+
+Q4: What are you looking forward to this semester?
+Answer: I am looking forward to expanding my data science knowledge and learning about advanced concepts
+such as machine learning and AI.
